@@ -5,9 +5,9 @@ type: about
 ***
 # 我是谁
 
-Zuler 虚拟化与存储组研发工程师，曾就职于 Zstack，毕业于南昌大学，现居上海，在云计算虚拟化领域有多年从业经验。
+Ruijie 研发工程师，曾就职于 Zstack、Zuler，毕业于南昌大学，现居福州，在云计算虚拟化、云桌面领域有多年从业经验。
 
-现就职于 [Zuler](https://www.todesk.com/)。
+现就职于 [Ruijie](https://www.ruijie.com.cn/)。
 
 ***
 # 状态
@@ -15,6 +15,14 @@ Zuler 虚拟化与存储组研发工程师，曾就职于 Zstack，毕业于南�
 
 ***
 # 兴趣爱好
+
+### 模型
+
+回坑胶佬...
+
+<image src="\pictures\xiongba.jpg" style="zoom:50%"/>
+<image src="\pictures\moxie.jpg" style="zoom:50%"/>
+
 ### 阅读
 
 喜欢看科幻和奇幻题材的小说
